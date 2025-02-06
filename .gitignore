@@ -1,0 +1,11 @@
+# Virtual environment
+.venv/
+__pycache__/
+
+# Sensitive data
+.env
+*.secret
+*.log
+
+# System files
+.DS_Store
